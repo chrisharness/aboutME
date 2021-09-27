@@ -58,11 +58,11 @@ Some important takeaways from my gaming experience:
 3. Be friendly to everyone, because you never know when they may appear in your life again.
 
 ## My goals for this year ##
-- [] Try my hardest in school.
-- [] Continuously attempt to make new friends. Connections can last a lifetime.
-- [] Branch out my cooking skills from the basics.
-- [] Drink more coffee (it helps with my productivity)
-- [] Don't slack off in the gym. Stay ahead of schedule so you can stay healthy!
+- [ ] Try my hardest in school.
+- [ ] Continuously attempt to make new friends. Connections can last a lifetime.
+- [ ] Branch out my cooking skills from the basics.
+- [ ] Drink more coffee (it helps with my productivity)
+- [ ] Don't slack off in the gym. Stay ahead of schedule so you can stay healthy!
 
 
 
