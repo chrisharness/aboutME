@@ -45,7 +45,7 @@ I'm glad you asked. *Some* of my hobbies include:
 
 ![Stats](screenshots/gamer.png)
 
-These are my current world rankings for the class I play ( I play a tank, which carries tons of responsibility and leadership skills, as well as mechanical ability. This measurement is based on my percentile relation to the top performers of my class. As you can see, I'm pretty decent. There are about 30K+ other people who play the class I do for context.)
+These are my current world rankings for the class I play ( I play a tank, which carries tons of responsibility and leadership skills, as well as mechanical ability. This measurement is based on my percentile relation to the top performers of my class. As you can see, I'm pretty decent. There are about 30K+ other people who play the class I do for context. )
 
 ## Ok that's kind of cool, you seem like a nerd though. ##
 
