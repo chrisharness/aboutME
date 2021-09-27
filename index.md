@@ -47,3 +47,15 @@ I'm glad you asked. *Some* of my hobbies include:
 
 These are my current world rankings for the class I play ( I play a tank, which carries tons of responsibility and leadership skills, as well as mechanical ability. This measurement is based on my percentile relation to the top performers of my class. As you can see, I'm pretty decent. There are about 30K+ other people who play the class I do for context.)
 
+## Ok that's kind of cool, you seem like a nerd though. ##
+
+That is true. You may be asking yourself how I even have the time to commit to a game like that. To be honest, I'm not sure how much longer I will be, but I've learned lots of great life lessons and met some cool people. 
+
+Some important takeaways from my gaming experience:
+
+1. Not everyone has patience, although I believe it can be developed.
+2. Controlling your emotions is a skill.
+3. Be friendly to everyone, because you never know when they may appear in your life again.
+
+
+
