@@ -11,3 +11,7 @@
 
 ![This is me!](screenshots/me.JPG)
 ### Pictured Above is Eric (Covid-Year + Current Roommate) -> Me (Chris) -> Gavin (Covid-Year Roommate) ###
+
+This picture was taken at the Encinitas Beach, nearby Gavin's home.
+
+
