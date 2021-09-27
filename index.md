@@ -5,6 +5,6 @@
 ## Who am I? ##
 
 ~~I am the greatest programmer alive~~
-**I am a humble Computer Science student**
+**I am a humble Computer Science student!**
 
-![This is me!]()
+![This is me!](screenshots/me.jpg)
