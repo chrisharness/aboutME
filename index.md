@@ -7,4 +7,4 @@
 ~~I am the greatest programmer alive~~
 **I am a humble Computer Science student!**
 
-![This is me!](screenshots/me.jpg)
+![This is me!](screenshots/me.JPG)
