@@ -1,5 +1,5 @@
 # Chris Harness
-
+[Instagram](https://instagram.com/chrisharness_)
 *Let me tell you a bit about myself.*
 
 ## Who am I? ##
