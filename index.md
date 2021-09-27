@@ -8,3 +8,4 @@
 **I am a humble Computer Science student!**
 
 ![This is me!](screenshots/me.JPG)
+### Pictured Above is Eric(Covid-Year + Current Roommate) -> Me (Chris) -> Gavin (Covid-Year Roommate) ###
