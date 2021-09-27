@@ -14,4 +14,17 @@
 
 This picture was taken at the Encinitas Beach, nearby Gavin's home.
 
+## Ok, but who am I as a programmer? ##
 
+For one, I am definitely not the greatest programmer, (yet)
+
+I am a second-year transfer student at UCSD currently, so I am developing and honing my skills to hopefully one day become a Software Engineer. 
+
+In terms of how we can get along...
+
+```
+while(YouAreHonestAndKind){
+    we.maintainFriendship();
+}
+
+```
