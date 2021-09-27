@@ -49,7 +49,7 @@ These are my current world rankings for the class I play ( I play a tank, which 
 
 ## Ok that's kind of cool, you seem like a nerd though. ##
 
-That is true. You may be asking yourself how I even have the time to commit to a game like that. To be honest, I'm not sure how much longer I will be, but I've learned lots of great life lessons and met some cool people. 
+That is true. You may be asking yourself how I even have the time to commit to a game like that. To be honest, I'm not sure how much longer I will be playing since my real life is ramping up, but I've learned lots of great life lessons and met some cool people. 
 
 Some important takeaways from my gaming experience:
 
