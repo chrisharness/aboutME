@@ -41,7 +41,7 @@ I'm glad you asked. *Some* of my hobbies include:
 
 ### A subtle flex ###
 
-**My favorite game at the moment is World of Warcraft**
+**My favorite game at the moment is *World of Warcraft***
 
 ![Stats](screenshots/gamer.png)
 
